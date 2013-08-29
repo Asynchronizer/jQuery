@@ -9,7 +9,7 @@ This works hand-in-hand with the Asynchronizer's back-end API. The API is availa
 ### Requirements
 
 - [jQuery](http://jquery.com/)
-- [PHP](https://github.com/RaideIO/PHP/tree/master/Traffic) Back-end
+- [PHP](https://github.com/Asynchronizer/PHP) Back-end
 
 ---
 
